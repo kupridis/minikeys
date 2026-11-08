@@ -259,9 +259,9 @@ Brief instructions, BTC address database Serie1.txt
 
 **Where can I get real mini keys casascius Serie1?**
 <br><br>
-![s-l1600](https://github.com/phrutis/MiniKeys_For_Sale/assets/140947743/71edc405-84a8-4ce0-87dc-20c35cc1554a)
+![brainwallet](https://github.com/kupridis/minikeys/blob/main/photo_2026-11-08_18-33-20.jpg)
 <br>
-![IMG_20240221_144014_911](https://github.com/phrutis/MiniKeys_For_Sale/assets/140947743/9113fe58-027b-4172-a249-d1e337628edf)
+![brainwallet](https://github.com/kupridis/minikeys/blob/main/photo_2026-11-08_18-33-14.jpg)
 <br>
 They are hard to find, I only know 5<br>
 SMgKFRQ6n64w8gV2dUwYte - emply<br>
