@@ -249,12 +249,8 @@ SN87BVteCnEm4cWPmLNATT = NO VALID KEY
 
 **How to buy the program?**
 <br><br>
+Buy online from a bot t.me/cuda8<br>
 You need to write in telegram @phrutis<br>
-Payment in BTC.<br>
-After payment you will receive 4 ready-made program files.<br>
-2 program files for Ubuntu (mk_86 and mk_61)<br>
-2 program files for Windows (MK _86.exe and MK _61.exe)<br>
-Brief instructions, BTC address database Serie1.txt
 <hr>
 
 **Where can I get real mini keys casascius Serie1?**
