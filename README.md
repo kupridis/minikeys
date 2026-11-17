@@ -1,4 +1,4 @@
-# Soft MiniKeys
+# Private Soft MiniKeys
 
 ![Serie1 coins](https://user-images.githubusercontent.com/82582647/185912181-afcef4e1-2c4b-4be1-be52-1e5d5a14511c.png)
 
@@ -13,6 +13,10 @@ This is the fastest program to find old Serie1 minikeys in the world :trophy:
 | RTX 3090   | 24       | 6.2 Gkeys |
 | RTX 3070   | 20       | 3.3 Gkeys |
 
+There is no source code available for this program!</br>
+Only the finished, compiled programs!</br>
+The program does not send any data anywhere—we have verified this.</br>
+If you have any doubts, simply block the program's access to the internet.
 
 ### Usage:
 
@@ -202,8 +206,8 @@ Then the rate began to rise.
 
 **Where to download 4907 addresses of coins series1 ?**
 </br>
-[**Download Serie1.txt**](https://github.com/phrutis/MiniKeys_For_Sale/blob/main/Serie1.txt)<br><br>
-[Download 3 addresses for a quick test](https://github.com/phrutis/MiniKeys_For_Sale/blob/main/test.txt)
+[**Download Serie1.txt**](https://github.com/kupridis/MiniKeys/blob/main/Serie1.txt)<br><br>
+[Download 3 addresses for a quick test](https://github.com/kupridis/MiniKeys/blob/main/test.txt)
 <hr>
 
 **I launched the program hung (froze) what should**
