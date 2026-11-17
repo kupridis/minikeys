@@ -14,7 +14,7 @@ This is the fastest program to find old Serie1 minikeys in the world :trophy:
 | RTX 3070   | 20       | 3.3 Gkeys |
 
 There is no source code available for this program!</br>
-Only the finished, compiled programs!</br>
+Only the finished, compiled programs for Linux(Ubuntu) and Windows!</br>
 The program does not send any data anywhere—we have verified this.</br>
 If you have any doubts, simply block the program's access to the internet.
 
